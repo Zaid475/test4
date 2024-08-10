@@ -244,5 +244,33 @@
 // dsa6(employees);
 
 
+// 5
 
-
+// const transactions = [
+    // { userId: 1, amount: 50, date: "2023-01-01" },
+    // { userId: 2, amount: 20, date: "2023-01-02" },
+    // { userId: 1, amount: 100, date: "2023-01-03" },
+    // { userId: 3, amount: 150, date: "2023-01-04" },
+    // { userId: 2, amount: 30, date: "2023-01-05" }
+    // ];
+    // function topSpenders(transactions) {
+    // 	let uid = {};
+    // 	let realuid = [];
+    // 	for (let trans of transactions) {
+    // 		const { userId } = trans;
+    // 		if (uid[userId]) {
+    // 			uid[userId]++;
+    // 		} else {
+    // 			uid[userId] = 1;
+    // 		}
+    // 	}
+    // 	console.log(uid);
+    // 	let value = Object.keys(uid);
+    // 	// console.log(value);
+    // 	for (let v of value) {
+    // 		if (uid[v] > 1) realuid.push((v));
+    // 	}
+    // 	return realuid;
+    // 	// Your code here
+    // }
+    // console.log(topSpenders(transactions));

@@ -167,6 +167,7 @@
 // modules are single function or collection of related functions
 
 // DSA
+// question 1
 
 // const products=[
 //     {name:"Laptop",category:"Electronics",price:1000},
@@ -193,7 +194,7 @@
 // dsa1(products,"Electronics")
 
 
-// 4
+//  question 4
 // const inventory=[
 //     {name:"Laptop",quantity:5,price:1000},
 //     {name:"Shirt",quantity:0,price:50},
@@ -217,7 +218,7 @@
 // dsa4(inventory);
 
 
-// 6
+//  question 6
 // const employees=[
 //     {name:"John",department:"Engineering",salary:1000},
 //     {name:"Jane",department:"Marketing",salary:1500},
@@ -244,7 +245,7 @@
 // dsa6(employees);
 
 
-// 5
+// question 5
 
 // const transactions = [
     // { userId: 1, amount: 50, date: "2023-01-01" },
@@ -271,6 +272,5 @@
     // 		if (uid[v] > 1) realuid.push((v));
     // 	}
     // 	return realuid;
-    // 	// Your code here
     // }
     // console.log(topSpenders(transactions));
